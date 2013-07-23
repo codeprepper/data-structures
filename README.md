@@ -1,4 +1,4 @@
 data-structures
 ===============
 
-arrays, linked lists, stacks and queues
+arrays, strings, linked lists, stacks and queues
