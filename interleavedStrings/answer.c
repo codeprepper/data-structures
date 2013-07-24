@@ -11,6 +11,9 @@
  * output:
  *      true (interleaved)
  *      false (not interleaved)
+ * complexity:
+ *      time: O(m+n); where m and n are lengths of the two strings
+ *      space: O(1); since we don't use any extra space
 **/
 
 #include "test.h"
