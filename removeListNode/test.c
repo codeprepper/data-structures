@@ -3,12 +3,8 @@
  *          value
  * claim to fame: ability to write bug-free code.
  * complexity: time = O(N); space = O(1)
- * credits: Arden Dertat (http://bit.ly/removeListNode)
 **/
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 #include "test.h"
 
 void printList(Node *head) {
@@ -59,9 +55,9 @@ int main(void) {
     while (fgets(str, 100, stdin) != NULL) {
         head = NULL;
         start = 1;
-        for (token = strtok(str, " ");
+        for (token = strtok(str, " \n\t");
              token != NULL;
-             token = strtok(NULL, " "))
+             token = strtok(NULL, " \n\t"))
         {
             /* read delete-val first */
             if (start) {
