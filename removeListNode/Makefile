@@ -1,7 +1,7 @@
 CC := cc
 
 clean:
-	\rm -f a.out test answer
+	\rm -f a.out test answer hints
 
 test: test.c scaffold.c
 	$(CC) test.c scaffold.c -o test
