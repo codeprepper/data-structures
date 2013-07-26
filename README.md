@@ -7,12 +7,12 @@ stacks and queues.
 Problems
 --------
 1. [Implement `atoi`](atoi)
-2. [Compress a string](compressString)
+2. [Compress a string `aaaabbc => a4b2c`](compressString)
 3. [Find the kth to last node in a list](findKth)
 4. [Check for interleaved strings](interleavedStrings)
 5. [Store IP address in a 4-byte integer](ipStringToInt)
 6. [Find the mid-poing of a singly-linked list](listMidPoint)
-7. [Remove nodes from a list](removeListNode)
+7. [Remove nodes from a list containing a given value](removeListNode)
 
 Ask to Answer
 -------------
