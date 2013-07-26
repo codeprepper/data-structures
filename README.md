@@ -6,13 +6,13 @@ stacks and queues.
 
 Problems
 --------
-1. [Implement `atoi`](atoi/README.md)
-2. [Compress a string](compressString/README.md)
-3. [Find the kth to last node in a list](findKth/README.md)
-4. [Check for interleaved strings](interleavedStrings/README.md)
-5. [Store IP address in a 4-byte integer](ipStringToInt/README.md)
-6. [Find the mid-poing of a singly-linked list](listMidPoint/README.md)
-7. [Remove nodes from a list](removeListNode/README.md)
+1. [Implement `atoi`](atoi)
+2. [Compress a string](compressString)
+3. [Find the kth to last node in a list](findKth)
+4. [Check for interleaved strings](interleavedStrings)
+5. [Store IP address in a 4-byte integer](ipStringToInt)
+6. [Find the mid-poing of a singly-linked list](listMidPoint)
+7. [Remove nodes from a list](removeListNode)
 
 Ask to Answer
 -------------
