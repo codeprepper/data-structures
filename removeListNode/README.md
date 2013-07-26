@@ -1,15 +1,16 @@
 Problem
 -------
-ADD PROBLEM DESCRIPTION HERE
+Remove all nodes from a singly-linked list containing a given integer value.
 
 Example
 -------
-    (INPUT VALUES) => (OUTPUT)
+    3, 1 2 3 4 5 => 1 2 4 5
+    3, 1 3 2 3 4 3 3 => 1 2 4
 
 Complexity
 ----------
-- Time : TIME IN BIG-O NOTATION
-- Space: SPACE IN BIG-) NOTATION
+- Time: O(N)
+- Space: O(1)
 
 Instructions
 ------------

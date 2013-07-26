@@ -1,15 +1,17 @@
 Problem
 -------
-ADD PROBLEM DESCRIPTION HERE
+check if a given string (strC) is interleaved from two other given strings (strA and strB).
 
 Example
 -------
-    (INPUT VALUES) => (OUTPUT)
+    ab cd acbd  (interleaved)
+    ab cd abcde (not interleaved, extra e)
+    ab cd abd   (not interleaved, missing c)
 
 Complexity
 ----------
-- Time : TIME IN BIG-O NOTATION
-- Space: SPACE IN BIG-) NOTATION
+- Time: O(N)
+- Space: O(1)
 
 Instructions
 ------------
