@@ -24,3 +24,7 @@ Instructions
 * Get the expected output using: `./answer < input.txt`
 * Feel free to include any additional header files or define additional
   functions.
+
+Help up make CodePrepper better
+-------------------------------
+If you have an alternative solution that uses a different approach or is more optimal than the solution provided in `answer.c`, please email it to codeprepper@gmail.com. If it compiles and passes our unit-tests, we will feature it in answer.c and give you credit for it.
