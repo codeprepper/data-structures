@@ -14,6 +14,7 @@ Problems
 6. [Find the mid-poing of a singly-linked list](listMidPoint)
 7. [Remove nodes from a list containing a given value](removeListNode)
 8. [Find the longest palindrome in a given string](longestPalindrome)
+9. [Reverse a singly-linked list](reverseList)
 
 Ask to Answer
 -------------
