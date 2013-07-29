@@ -1,0 +1,16 @@
+
+a
+aa
+aba
+abba
+abcba
+abcd
+1a
+a1
+1aa
+aa1
+1aa2
+11aaa22
+11aaaa22
+123abba123aba123aa123a123
+123abcba123abba123aba123aa123a123
