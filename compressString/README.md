@@ -28,9 +28,9 @@ Instructions
 8. Feel free to include any additional header files or define additional
   functions.
 
-Help up make CodePrepper better
+Help us make CodePrepper better
 -------------------------------
-If you have an alternative solution that uses a different approach or is more
-optimal than the solution provided in `answer.c`, please email it to
+If you have an alternative solution to any of the solutions we've posted that
+is more optimal or uses a different approach, please email it to us at 
 <codeprepper@gmail.com>. If it compiles and passes our unit-tests, we will
-feature it in `answer.c` and give you credit for it.
+feature your solution and give you credit for it.

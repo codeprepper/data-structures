@@ -13,6 +13,7 @@ Problems
 5. [Store IP address in a 4-byte integer](ipStringToInt)
 6. [Find the mid-poing of a singly-linked list](listMidPoint)
 7. [Remove nodes from a list containing a given value](removeListNode)
+8. [Find the longest palindrome in a given string](longestPalindrome)
 
 Ask to Answer
 -------------
