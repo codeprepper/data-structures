@@ -47,10 +47,9 @@ void fizzbuzz(int N) {
     **/
 
     for (int i=1; i <= N; i++) {
-        if (i%3 == 0 && i%5 ==0) printf("fizzbuzz");
-        else if (i%3 == 0) printf("fizz");
-        else if (i%5 == 0) printf("buzz");
-        else printf("%d", i);
+        if (i%3 == 0) printf("fizz");
+        if (i%5 == 0) printf("buzz");
+        if (i%3 != 0 && i%5 != 0) printf("%d", i);
         printf("\n");
     }
 }
