@@ -18,7 +18,6 @@
 
 bool overflow(int num, int lsd) {
     /* check if addn of the least significant digit won't cause an overflow */
-    printf("(%d)\n", 10*num + lsd);
     return (10*num + lsd <= num) ? true : false;
     
 }
