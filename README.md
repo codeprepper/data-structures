@@ -6,7 +6,7 @@ stacks and queues.
 
 Problems
 --------
-0  [FizzBuzz](fizzbuzz)
+0. [FizzBuzz](fizzbuzz)
 1. [Implement `atoi`](atoi)
 2. [Compress a string `aaaabbc => a4b2c`](compressString)
 3. [Find the kth to last node in a list](findKth)
